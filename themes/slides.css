@@ -1,0 +1,31 @@
+#whatismozilla img {
+  width: 450px;
+  height: 182px;
+}
+
+#whatismozilla1 img {
+  position: relative;
+  z-index: -1;
+  top: -250px;
+}
+
+#whatismozilla1 blockquote{
+  background: rgba(0,0,0,.6);
+  padding: 3px;
+  color: #fff;
+}
+
+.gh img {
+  width: 90px;
+  height: 90px;
+}
+
+.gh p {
+  margin: 20px 20px 0 0;
+  width: 270px;
+  float: right;
+}
+
+.meh {
+  text-decoration: line-through;
+} 
