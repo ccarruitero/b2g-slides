@@ -1,0 +1,2 @@
+# My Firefox OS (B2G) slides 
+You can see this slides [here](http://ccarruitero.github.com/b2g-slides)
